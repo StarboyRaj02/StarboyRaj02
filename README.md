@@ -1,8 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=RAJARSHI%20MONDAL&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=SOFTWARE%20DEVELOPER&descSize=18&descAlignY=55&textBg=false"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=ALWAYS%20STAY%20HAPPY%20AND%20KEEP%20SMILING" alt="Typing introduction" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=RAJARSHI%20MONDAL&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20DEVELOPER&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=StarboyRaj02">
@@ -10,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
 
 ## 🧠 My Focus Areas
 - web Development
