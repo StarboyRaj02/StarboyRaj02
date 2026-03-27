@@ -1,6 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=RAJARSHI%20MONDAL&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=SOFTWARE%20DEVELOPER&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=ALWAYS%20STAY%20HAPPY%20AND%20KEEP%20SMILING" alt="Typing introduction" />
+</p>
+
+<p align="center">
   <a href="https://komarev.com/ghpvc/?username=StarboyRaj02">
     <img src="https://komarev.com/ghpvc/?username=StarboyRaj02&label=Profile%20views&color=00FFFF&style=flat-square" alt="StarboyRaj02's profile views" />
   </a>
